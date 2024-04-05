@@ -59,3 +59,5 @@ foodElement.innerHTML += `<br>${favoriteFood}`;
 favoriteFood.pop()
 foodElement.innerHTML += `<br>${favoriteFood}`;
 
+console.log('Hola Karol')
+
