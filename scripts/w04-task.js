@@ -4,7 +4,7 @@
 let myProfile = 
     {
         name : "Jose David Albancando Robles",
-        imagePath : "/images/joseDavid.jpg",
+        imagePath : "images/joseDavid.jpg",
         favoriteFoods : [
             "Spicy Chicken Sandwich", 
             "Cazuela de Frijoles", 
